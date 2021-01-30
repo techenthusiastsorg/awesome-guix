@@ -22,3 +22,9 @@ Awesome list of resources about GNU Guix
 - <https://gist.github.com/Brainiarc7/0943ed4ac4d59b6648de>
   
   _(Set Guix hacking env.md): "Use this to set up a functional Guix hacking space. Useful when porting apps to GNU Guix.", 5 years old_
+
+## Imaging
+
+- <https://othacehe.org/the-guix-system-image-api.html>
+
+  _Mathieu Othacehe. The Guix System image API_
