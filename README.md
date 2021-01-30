@@ -1,6 +1,12 @@
 # awesome-guix
 Awesome list of resources about GNU Guix
 
+## Trying
+
+- <https://github.com/fanquake/core-review/blob/master/guix/vm-intro.md>
+
+  _Bitcoin Core notes on how to run Guix in a QEMU virtual machine_
+
 ## Installing
 
 - <https://github.com/pjotrp/guix-notes/blob/master/INSTALL.org>
