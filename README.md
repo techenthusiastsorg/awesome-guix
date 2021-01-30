@@ -13,7 +13,7 @@ Awesome list of resources about GNU Guix
 
 ## Using
 
-- <https://gist.github.com/peanutbutterandcrackers/844c211a91137c19607ae75b59fa116f/revisions>
+- <https://gist.github.com/peanutbutterandcrackers/844c211a91137c19607ae75b59fa116f>
   
   _(Guix-DE-Integration.md): A guide to better desktop environment integration for Gnu Guix_
 
