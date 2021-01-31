@@ -1,6 +1,12 @@
 # awesome-guix
 Awesome list of resources about GNU Guix
 
+## Start with Why
+
+- <https://ambrevar.xyz/guix-advance/>
+
+  _Guix: A most advanced operating system (and: A quick look at the history of operating systems)_
+
 ## Trying
 
 - <https://github.com/fanquake/core-review/blob/master/guix/vm-intro.md>
