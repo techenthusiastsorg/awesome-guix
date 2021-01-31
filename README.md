@@ -33,6 +33,15 @@ Awesome list of resources about GNU Guix
 
 ### Programming
 
+- <https://people.eecs.berkeley.edu/~bh/ss-toc2.html> (book)
+
+  _(Simply Scheme, 2/e © 1999 MIT): to learn scheme_
+
+- <https://mitpress.mit.edu/sites/default/files/sicp/index.html> (book)
+- <https://www.youtube.com/playlist?list=PLE18841CABEA24090> (videos)
+
+  _(Structure and Interpretation of Computer Programs, second edition, 2/e © 1996 MIT): to learn scheme (also)_
+
 - <https://www.gnu.org/software/guix/guix-gpce-20171023.pdf>
 
   _(Code Staging in GNU Guix): required reading to understand G-expressions (`#~`, `#$`, `#$@`)_
@@ -48,3 +57,13 @@ Awesome list of resources about GNU Guix
 - <https://othacehe.org/the-guix-system-image-api.html>
 
   _Mathieu Othacehe. The Guix System image API_
+
+### Deploying
+
+- <https://guix.gnu.org/en/blog/2020/running-guix-system-on-a-linode-server>
+
+  _Running Guix System on a Linode Server_
+
+- <https://guix.gnu.org/en/blog/2020/running-a-ganeti-cluster-on-guix>
+
+  _Running a Ganeti cluster on Guix_
