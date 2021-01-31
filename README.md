@@ -29,13 +29,21 @@ Awesome list of resources about GNU Guix
   
   _(Guix-DE-Integration.md): A guide to better desktop environment integration for Gnu Guix_
 
-## Hacking
+## Going deeper
+
+### Programming
+
+- <https://www.gnu.org/software/guix/guix-gpce-20171023.pdf>
+
+  _(Code Staging in GNU Guix): required reading to understand G-expressions (`#~`, `#$`, `#$@`)_
+
+### Packaging
 
 - <https://gist.github.com/Brainiarc7/0943ed4ac4d59b6648de>
   
   _(Set Guix hacking env.md): "Use this to set up a functional Guix hacking space. Useful when porting apps to GNU Guix.", 5 years old_
 
-## Imaging
+### Imaging
 
 - <https://othacehe.org/the-guix-system-image-api.html>
 
