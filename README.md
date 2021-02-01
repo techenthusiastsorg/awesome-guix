@@ -33,7 +33,7 @@ Awesome list of resources about GNU Guix (https://guix.gnu.org)
 
 ### Programming
 
-Scheme programming resources by rough descending order of complexity and specificity to Guix
+Scheme programming resources by ascending complexity and specificity to Guix
 
 - <https://guix.gnu.org/cookbook/en/html_node/A-Scheme-Crash-Course.html>
 
