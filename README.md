@@ -98,26 +98,4 @@ Scheme programming resources by ascending complexity and specificity to Guix
 
 ## Troubleshooting
 
-### warning: setlocale: LC_ALL: cannot change locale (en_US.utf8)
-
-- If you get:
-
-  ```
-  /gnu/store/pwcp239kjf7lnj5i4lkdzcfcxwcfyk72-bash-minimal-5.0.16/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.utf8)
-  ```
-
-  figure out which glibc the affected command is using
-  
-  ```
-  $ ldd /gnu/store/pwcp239kjf7lnj5i4lkdzcfcxwcfyk72-bash-minimal-5.0.16/bin/bash | grep glibc
-  ldd /gnu/store/pwcp239kjf7lnj5i4lkdzcfcxwcfyk72-bash-minimal-5.0.16/bin/bash | grep glibc
-	libdl.so.2 => /gnu/store/fa6wj5bxkj5ll1d7292a70knmyl7a0cr-glibc-2.31/lib/libdl.so.2 (0x00007eff6c1e6000)
-	libc.so.6 => /gnu/store/fa6wj5bxkj5ll1d7292a70knmyl7a0cr-glibc-2.31/lib/libc.so.6 (0x00007eff6c029000)
-	/gnu/store/fa6wj5bxkj5ll1d7292a70knmyl7a0cr-glibc-2.31/lib/ld-linux-x86-64.so.2 => /lib64/ld-linux-x86-64.so.2 (0x00007eff6bfc7000)
-  ```
-  
-  then install the glibc locales for the corresponding glibc version
-  
-  ```
-  
-  ```
+- [Fixing `warning: setlocale: LC_ALL: cannot change locale (en_US.utf8)`](https://www.reddit.com/r/GUIX/comments/jpq1uw/bashminimal507binbash_warning_setlocale_lc_all/)
