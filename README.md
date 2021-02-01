@@ -1,19 +1,29 @@
 # awesome-guix
 Awesome list of resources about GNU Guix (https://guix.gnu.org)
 
-## Start with Why
+## Official Documentation
+
+- <https://www.gnu.org/software/guile/manual/>
+
+  _GNU Guix Manual_
+
+- <https://guix.gnu.org/cookbook/>
+
+  _GNU Guix Cookbook_
+
+## Why Guix?
 
 - <https://ambrevar.xyz/guix-advance/>
 
   _Guix: A most advanced operating system (and: A quick look at the history of operating systems)_
 
-## Trying
+## Trying Guix
 
 - <https://github.com/fanquake/core-review/blob/master/guix/vm-intro.md>
 
   _Bitcoin Core notes on how to run Guix in a QEMU virtual machine_
 
-## Installing
+## Installing Guix and First Steps
 
 - <https://github.com/pjotrp/guix-notes/blob/master/INSTALL.org>
   
@@ -23,15 +33,15 @@ Awesome list of resources about GNU Guix (https://guix.gnu.org)
   
   _Andy Weidenbaum Guix notes, 5 years old_
 
-## Using
+## Using Guix day-to-day
 
 - <https://gist.github.com/peanutbutterandcrackers/844c211a91137c19607ae75b59fa116f>
   
   _(Guix-DE-Integration.md): A guide to better desktop environment integration for Gnu Guix_
 
-## Going deeper
+## Going deeper with Guix
 
-### Programming
+### Programming Guix
 
 Scheme programming resources by ascending complexity and specificity to Guix
 
@@ -53,19 +63,19 @@ Scheme programming resources by ascending complexity and specificity to Guix
 
   _(Code Staging in GNU Guix): required reading to understand G-expressions (`#~`, `#$`, `#$@`)_
 
-### Packaging
+### Packaging for Guix
 
 - <https://gist.github.com/Brainiarc7/0943ed4ac4d59b6648de>
   
   _(Set Guix hacking env.md): "Use this to set up a functional Guix hacking space. Useful when porting apps to GNU Guix.", 5 years old_
 
-### Imaging
+### Imaging with Guix
 
 - <https://othacehe.org/the-guix-system-image-api.html>
 
   _Mathieu Othacehe. The Guix System image API_
 
-### Deploying
+### Deploying with Guix
 
 - <https://guix.gnu.org/en/blog/2020/running-guix-system-on-a-linode-server>
 
