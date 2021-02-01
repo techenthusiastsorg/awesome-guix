@@ -56,7 +56,9 @@ Scheme programming resources by ascending complexity and specificity to Guix
 - Structure and Interpretation of Computer Programs, second edition, 2/e © 1996 MIT
   - <https://mitpress.mit.edu/sites/default/files/sicp/index.html> (book)
   - <https://www.youtube.com/playlist?list=PLE18841CABEA24090> (videos)
+  - <https://sarabander.github.io/sicp/> (unofficial ebook)
   - `guix install sicp && info sicp` (texinfo)
+
   
   _To learn scheme also, the harder way._
 
