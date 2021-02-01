@@ -1,5 +1,5 @@
 # awesome-guix
-List of awesome things and resources about GNU Guix (https://guix.gnu.org)
+List of awesome things and resources about GNU Guix (https://guix.gnu.org). Pull requests welcome.
 
 ## Official Documentation
 
@@ -38,6 +38,10 @@ List of awesome things and resources about GNU Guix (https://guix.gnu.org)
   _Andy Weidenbaum Guix notes, 5 years old_
 
 ## Using Guix day-to-day
+
+- <https://emacs-guix.gitlab.io/website/>
+
+  _Emacs-Guix: Use Guix without leaving Emacs_
 
 - <https://gist.github.com/peanutbutterandcrackers/844c211a91137c19607ae75b59fa116f>
   
