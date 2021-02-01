@@ -1,7 +1,11 @@
 # awesome-guix
-Awesome list of resources about GNU Guix (https://guix.gnu.org)
+List of awesome things and resources about GNU Guix (https://guix.gnu.org)
 
 ## Official Documentation
+
+- <https://guix.gnu.org/guix-refcard.pdf>
+
+  _Reference card_
 
 - <https://www.gnu.org/software/guile/manual/>
 
@@ -87,3 +91,29 @@ Scheme programming resources by ascending complexity and specificity to Guix
 - <https://guix.gnu.org/en/blog/2020/running-a-ganeti-cluster-on-guix>
 
   _Running a Ganeti cluster on Guix_
+
+## Troubleshooting
+
+### warning: setlocale: LC_ALL: cannot change locale (en_US.utf8)
+
+- If you get:
+
+  ```
+  /gnu/store/pwcp239kjf7lnj5i4lkdzcfcxwcfyk72-bash-minimal-5.0.16/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.utf8)
+  ```
+
+  figure out which glibc the affected command is using
+  
+  ```
+  $ ldd /gnu/store/pwcp239kjf7lnj5i4lkdzcfcxwcfyk72-bash-minimal-5.0.16/bin/bash | grep glibc
+  ldd /gnu/store/pwcp239kjf7lnj5i4lkdzcfcxwcfyk72-bash-minimal-5.0.16/bin/bash | grep glibc
+	libdl.so.2 => /gnu/store/fa6wj5bxkj5ll1d7292a70knmyl7a0cr-glibc-2.31/lib/libdl.so.2 (0x00007eff6c1e6000)
+	libc.so.6 => /gnu/store/fa6wj5bxkj5ll1d7292a70knmyl7a0cr-glibc-2.31/lib/libc.so.6 (0x00007eff6c029000)
+	/gnu/store/fa6wj5bxkj5ll1d7292a70knmyl7a0cr-glibc-2.31/lib/ld-linux-x86-64.so.2 => /lib64/ld-linux-x86-64.so.2 (0x00007eff6bfc7000)
+  ```
+  
+  then install the glibc locales for the corresponding glibc version
+  
+  ```
+  
+  ```
