@@ -1,5 +1,5 @@
 # awesome-guix
-Awesome list of resources about GNU Guix
+Awesome list of resources about GNU Guix (https://guix.gnu.org)
 
 ## Start with Why
 
