@@ -33,14 +33,21 @@ Awesome list of resources about GNU Guix (https://guix.gnu.org)
 
 ### Programming
 
+Scheme programming resources by rough descending order of complexity and specificity to Guix
+
+- <https://guix.gnu.org/cookbook/en/html_node/A-Scheme-Crash-Course.html>
+
+  _Scheme Crash Course, from the Guix Cookbook_
+
 - <https://people.eecs.berkeley.edu/~bh/ss-toc2.html> (book)
 
   _(Simply Scheme, 2/e © 1999 MIT): to learn scheme_
 
-- <https://mitpress.mit.edu/sites/default/files/sicp/index.html> (book)
-- <https://www.youtube.com/playlist?list=PLE18841CABEA24090> (videos)
+- Structure and Interpretation of Computer Programs, second edition, 2/e © 1996 MIT
+  - <https://mitpress.mit.edu/sites/default/files/sicp/index.html> (book)
+  - <https://www.youtube.com/playlist?list=PLE18841CABEA24090> (videos)
 
-  _(Structure and Interpretation of Computer Programs, second edition, 2/e © 1996 MIT): to learn scheme (also)_
+  _To learn scheme also, the harder way._
 
 - <https://www.gnu.org/software/guix/guix-gpce-20171023.pdf>
 
