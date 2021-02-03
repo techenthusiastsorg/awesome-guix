@@ -17,6 +17,8 @@ List of awesome things and resources about GNU Guix (https://guix.gnu.org). Pull
 
 ## Why Guix?
 
+- Solving the deployment crisis with GNU Guix - Dave Thompson, Christopher Webber - LibrePlanet 2016 ([video](https://www.youtube.com/watch?v=iM3y9CSjMtI), [pdf](https://media.libreplanet.org/mgoblin_media/media_entries/1420/libreplanet_guix.pdf))
+
 - <https://ambrevar.xyz/guix-advance/>
 
   _Guix: A most advanced operating system (and: A quick look at the history of operating systems)_
