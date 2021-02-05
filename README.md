@@ -59,6 +59,10 @@ Scheme programming resources by ascending complexity and specificity to Guix
 
   _Scheme Crash Course, from the Guix Cookbook_
 
+- <http://www.starynkevitch.net/Basile/guile-tutorial-1.html>
+
+  _A Guile/Scheme mini-tutorial for GNU/Linux developers_
+
 - <https://people.eecs.berkeley.edu/~bh/ss-toc2.html> (book)
 
   _(Simply Scheme, 2/e © 1999 MIT): to learn scheme_
