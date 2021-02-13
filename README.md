@@ -84,6 +84,10 @@ Scheme programming resources by ascending complexity and specificity to Guix
 
   _(Code Staging in GNU Guix): required reading to understand G-expressions (`#~`, `#$`, `#$@`)_
 
+- <https://jeko.frama.io/>
+
+  _(Guile Hacker Handbook)_
+
 ### Packaging for Guix
 
 - <https://gist.github.com/Brainiarc7/0943ed4ac4d59b6648de>
