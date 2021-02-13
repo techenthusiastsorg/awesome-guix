@@ -49,6 +49,10 @@ List of awesome things and resources about GNU Guix (https://guix.gnu.org). Pull
   
   _(Guix-DE-Integration.md): A guide to better desktop environment integration for Gnu Guix_
 
+- <https://www.draketo.de/software/guix-work.html>
+
+  _(ArneBab): Using GNU Guix for software development (explains how to use Intellij, Zoom, npm...)_
+
 ## Going deeper with Guix
 
 ### Programming Guix
