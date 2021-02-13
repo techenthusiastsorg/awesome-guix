@@ -31,7 +31,8 @@ List of awesome things and resources about GNU Guix (https://guix.gnu.org). Pull
 
 ## Installing Guix and First Steps
 
-- <https://github.com/pjotrp/guix-notes/blob/master/INSTALL.org>
+- <https://github.com/pjotrp/guix-notes>
+- <https://gitlab.com/pjotrp/guix-notes>
   
   _Pjotr Prins Guix notes, active_
 
