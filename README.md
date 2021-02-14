@@ -71,13 +71,16 @@ Scheme programming resources by ascending complexity and specificity to Guix
 
   _(Simply Scheme, 2/e © 1999 MIT): to learn scheme_
 
+- <https://htdp.org/2003-09-26/Book/>
+
+  _(How to Design Programs 1/e © 2001 Massachusetts Institute of Technology): to learn scheme, with DrScheme as IDE_
+
 - Structure and Interpretation of Computer Programs, second edition, 2/e © 1996 MIT
   - <https://mitpress.mit.edu/sites/default/files/sicp/index.html> (book)
   - <https://www.youtube.com/playlist?list=PLE18841CABEA24090> (videos)
   - <https://sarabander.github.io/sicp/> (unofficial ebook)
   - `guix install sicp && info sicp` (texinfo)
 
-  
   _To learn scheme also, the harder way._
 
 - <https://www.gnu.org/software/guix/guix-gpce-20171023.pdf>
