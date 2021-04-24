@@ -29,6 +29,10 @@ List of awesome things and resources about GNU Guix (https://guix.gnu.org). Pull
 
   _Bitcoin Core notes on how to run Guix in a QEMU virtual machine_
 
+- <https://www.ubuntubuzz.com/2021/04/lets-try-guix.html>>
+
+  _(Ade Malsasa Akbar, Ubuntubuzz) Let's Try Guix_
+
 ## Installing Guix and First Steps
 
 - _Pjotr Prins Guix notes_
